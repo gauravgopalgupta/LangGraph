@@ -1,0 +1,11 @@
+Chat Conversation History:
+you: Hi I'm Gaurav
+AI:  Hello Gaurav, nice to meet you! How can I help you today? If you have any specific question or topic in mind, feel free to ask and I'll do my best to provide you with accurate and helpful information. If you don't have a particular question, I can suggest some topics related to programming, data science, or technology in general that might interest you. Let me know what you prefer!
+you: Who is the PM of India?
+AI:  As of my knowledge up to 2021, the Prime Minister of India is Narendra Modi. He has been in office since May 2014. Modi is the leader of the Bharatiya Janata Party (BJP) and has been re-elected for a second term in the 2019 Indian general elections. He is the 15th and current Prime Minister of India. If you have any other question, feel free to ask!
+you: How many states in this country?
+AI:  India is the second-most populous country in the world and it is also the seventh-largest country by land area. As of 2021, India is composed of 28 states and 8 union territories. The states are administrative units with a significant degree of autonomy, while the union territories are directly governed by the central government. Each state has its own unique culture, language, and traditions, making India a diverse and vibrant country. Let me know if you have any other question!
+you: What is his age?
+AI:  Narendra Modi was born on September 17, 1950. So, as of my knowledge up to 2021, he is approximately 71 years old. He was born in Vadnagar, Gujarat, India, and grew up in a modest family. He started his political career as a pracharak (campaigner) with the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist organization, in the late 1960s. He went on to hold various positions in the BJP and became the Chief Minister of Gujarat in 2001, before being elected as the Prime Minister of India in 2014. Let me know if you have any other question!
+
+End of Conversation

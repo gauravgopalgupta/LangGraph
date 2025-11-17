@@ -44,7 +44,7 @@ while (user_input != "exit"):
     user_input = input("Your query: ")
 
 # Saving your chat for future use in the chatbot with saved memory
-with open("chat_logging_history.txt", "w") as file:
+with open("logs/chat_logging_history.txt", "w") as file:
     file.write("Chat Conversation History:\n")
 
     for msg in conversation_history:
