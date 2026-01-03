@@ -1,0 +1,8 @@
+Objectives:
+    Define State structure with a list of Human Message objects.
+    Initialize a GPT-4o model using LangChain's ChatOpenAI.
+    Sending and handling different types of messages.
+    Building and compiling the graph of the Agent.
+
+Main Goal:
+    How to integrate LLMs in our Graphs.
