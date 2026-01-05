@@ -1,0 +1,8 @@
+Objective : 
+    1- Creating a chatbot using huggingface which is responding to the user untill he raise the 
+    request as "exit".
+    2- The chatbot must use history of the previous queries & get the context.
+    3- After all the chat with the chatbot, it must save the user query along with it's response
+    to a logger file in chat form.
+
+Main Goal : To know how to save the history of the chat for future refernece.
