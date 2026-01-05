@@ -1,0 +1,8 @@
+Objectives :
+    1- Use different message types - HumanMessage and AIMessage.
+    2- Maintain a full conversation history using both message types.
+    3- Use Huggingface opensource mistral model using LangChain's Huggingface.
+    4- Create a sophisticated conversational loop
+
+Main Goal : 
+    Create a form of memory for our Agent.
