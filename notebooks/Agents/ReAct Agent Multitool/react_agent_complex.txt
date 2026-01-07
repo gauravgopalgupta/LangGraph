@@ -1,0 +1,10 @@
+Objective:
+    - Learn how to define multiple tools.
+    - make sure the llm can decide which tools to be choosen for a dedicated query.
+    - make sure the llm can use multiple tools as the same time.
+
+We have created a simple calculator whihc can do the following action:
+    addition
+    substraction
+    multiplication
+    division
