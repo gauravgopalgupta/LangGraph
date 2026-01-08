@@ -1,0 +1,18 @@
+Boss's Orders
+
+Task:
+
+Our company is not working efficiently! We spemd way too much time drafting documents and this 
+needs to be fixed!
+
+For the company, you need to create an AI Agentic System that can speed up drafting documents, 
+emails, etc. The AI Agentic System should have Human-AI Collaboration, meaning the human should be 
+able to provide continuous feedback and the AI Agent should stop when the human is happy with the 
+draft. The system should also be fast and be able to save the drafts.
+
+
+Extension:
+    extension of this excercise is we can enable voice also. 
+    we can use whisper model to convert voice to text, and elevenlabs for ocnverting back from
+    text to voice, and make a voicemail or GUI to this program. 
+    We can include knowledgebase in this to get more robust and great result.
