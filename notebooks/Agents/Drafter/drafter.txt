@@ -16,3 +16,7 @@ Extension:
     we can use whisper model to convert voice to text, and elevenlabs for ocnverting back from
     text to voice, and make a voicemail or GUI to this program. 
     We can include knowledgebase in this to get more robust and great result.
+
+
+image1: It is representing the graph we are making in this excercise. Please have a look before
+        jumping to the code directly.
